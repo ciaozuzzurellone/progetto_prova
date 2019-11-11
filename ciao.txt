@@ -2,3 +2,6 @@ saluti
 saluti
 
 altro saluto!
+
+sistemato bug!
+
